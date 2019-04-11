@@ -1,3 +1,2 @@
 # hello-world
-just another repository
-me gusta la tecnologia
+just another repositorio
