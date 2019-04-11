@@ -1,2 +1,2 @@
 # hello-world
-just another repositorio
+Soy, nuevo en esto, me gusta mucho la tecnologia, mas que todo acerca de la inteligencia artificial
